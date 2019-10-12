@@ -1,0 +1,12 @@
+{
+    "name": "administrator/oauth",
+    "authors": [
+        {
+            "name": "Ao",
+            "email": "276363733@qq.com"
+        }
+    ],
+    "require": {
+        "overtrue/wechat": "^4.2"
+    }
+}
