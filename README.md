@@ -1,4 +1,6 @@
 ### 微信多个域名网页授权
+> 由于微信只能设置3个网页授权的地址，而实际使用中可能需要多个域名来部署多个项目
+
 > 授权页面跳转网址：`http://oauth.domain/index.php?target=http://user.domain&scope=snsapi_userinfo`
 * oauth.domain: 本系统的网址；
 * user.domain: 需要网页授权的网址；
